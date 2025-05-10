@@ -8,7 +8,7 @@
 
 
 
-
+model_small = vosk-model-small-ru-0.22
 
 Лабораторная работа №10
 
