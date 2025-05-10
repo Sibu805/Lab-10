@@ -1,4 +1,15 @@
 # Lab-10
+
+![image](https://github.com/user-attachments/assets/181fd150-ebee-45bc-ad4e-f7fe5fce653f)
+
+
+
+
+
+
+
+
+
 Лабораторная работа №10
 
 Голосовой ассистент.
