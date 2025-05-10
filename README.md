@@ -8,19 +8,17 @@
 
 
 
-model_small = vosk-model-small-ru-0.22
+model_small = vosk-model-small-en-us-0.15
 
 
-## Доступные голосовые команды
-
-| Команда (на русском)    | Описание действия                                              |
-|-------------------------|---------------------------------------------------------------|
-| **погода**              | Сообщает текущую температуру и описание погоды в Санкт-Петербурге |
-| **ветер**               | Сообщает текущую скорость ветра                                |
-| **направление**         | Сообщает направление ветра                                     |
-| **записать**            | Сохраняет информацию о погоде в файл `weather.txt`            |
-| **прогулка**            | Даёт рекомендацию — можно ли идти на прогулку                 |
-| **закрыть** или **выход** | Завершает работу голосового ассистента                         |
+| Command Keyword       | Description                                                                      |
+| --------------------- | -------------------------------------------------------------------------------- |
+| **weather**           | Speaks the current temperature and weather description for Saint Petersburg.     |
+| **wind**              | Speaks the current wind speed.                                                   |
+| **direction**         | Speaks the current wind direction.                                               |
+| **save**              | Saves the current weather details to a `weather.txt` file.                       |
+| **walk**              | Advises whether it's a good idea to go for a walk based on temperature and wind. |
+| **exit** or **close** | Stops the assistant and exits the program.                                       |
 
 
 Лабораторная работа №10
